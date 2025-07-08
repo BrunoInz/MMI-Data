@@ -115,32 +115,6 @@ st.set_page_config(layout="wide")
 
 Los gráficos tienen un ancho estándar de 1300px para optimizar la visualización.
 
-## Desarrollo Futuro
-
-- [ ] Soporte completo para mSafe 3 AC
-- [ ] Exportación de análisis en PDF/Excel
-- [ ] Alertas automáticas basadas en umbrales
-- [ ] Análisis predictivo de tendencias
-- [ ] Comparación entre múltiples archivos de log
-
-## Contribución
-
-Para contribuir al proyecto:
-
-1. Fork el repositorio
-2. Crea una rama para tu feature (`git checkout -b feature/nueva-funcionalidad`)
-3. Commit tus cambios (`git commit -am 'Añadir nueva funcionalidad'`)
-4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
-5. Crea un Pull Request
-
-## Licencia
-
-[Especificar licencia aquí]
-
-## Contacto
-
-[Información de contacto del desarrollador]
-
 ---
 
 **Nota**: Esta aplicación está optimizada para archivos de log generados por dispositivos mSafe. Para otros formatos de archivo, pueden ser necesarias modificaciones en los parsers.
